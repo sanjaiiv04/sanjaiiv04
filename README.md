@@ -3,7 +3,7 @@
 - B.tech Undergrad student at Vellore Institute of Technology, Chennai👨🏽‍🎓
 - Interested to learn penetration testing🧑🏽‍💻
 - Currently working on small python projects⚙️
-- Curious to learn networking and improve my spectrum🙋🏽‍♂️
+- Curious to learn networking fundamentals🙋🏽‍♂️
 
 ## `CONNECT WITH ME`:
 <a href="https://www.linkedin.com/in/sanjaii-vijayakumar-0408/">
