@@ -2,7 +2,8 @@
 ## `ABOUT ME`:
 - B.tech Undergrad student at Vellore Institute of Technology, Chennai👨🏽‍🎓
 - Interested to learn penetration testing🧑🏽‍💻
-- Curious to learn networking fundamentals🙋🏽‍♂️
+- Learning some IOS app development
+- Keen to explore different fields 
 
 ## `CONNECT WITH ME`:
 <a href="https://www.linkedin.com/in/sanjaii-vijayakumar-0408/">
