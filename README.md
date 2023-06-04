@@ -3,6 +3,7 @@
 - B.tech Undergrad student at Vellore Institute of Technology, Chennai👨🏽‍🎓
 - Interested to learn penetration testing🧑🏽‍💻
 - Learning some IOS app development
+- Learning AI, ML and Deep learning
 - Keen to explore different fields 
 
 ## `CONNECT WITH ME`:
