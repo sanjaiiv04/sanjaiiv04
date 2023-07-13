@@ -13,6 +13,7 @@
 <a href="https://www.instagram.com/sanjaii04vijay/">
   <img align="left" src="https://raw.githubusercontent.com/sanjaiiv04/sanjaiiv04/main/images/instagram.png" alt=”sanjaii|instagram” width="50px"/>
 </a>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaiiv04)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
