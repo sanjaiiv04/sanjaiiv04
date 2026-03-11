@@ -4,7 +4,7 @@
 # Hi there! 👋 I'm Sanjaii Vijayakumar  
 
 ## 🚀 About Me  
-I'm a **Machine Learning & AI enthusiast** with a strong background in **computer science and robotics**. Passionate about leveraging AI for real-world applications, I have worked on interdisciplinary projects in **healthcare, manufacturing, and agriculture**.  
+I'm a **graduate student** at **Columbia University** with a strong background in **computer science and robotics**. Passionate about leveraging AI for real-world applications, I have worked on interdisciplinary projects in **healthcare, manufacturing, and agriculture**.  
 
 🔬 **Research Interests:**  
 - Privacy-Preserving AI  
@@ -15,7 +15,8 @@ I'm a **Machine Learning & AI enthusiast** with a strong background in **compute
 - LLM's
 
 🎓 **Education:**  
-- Pursuing a **Bachelor’s in Computer Science** at VIT Chennai  
+- Completed a **Bachelor’s in Computer Science** at VIT Chennai
+- Pursuing a **Master's in Computer Science** with a **Machine Learning** track at Columbia University in the City of New York
 
 🏆 **Experience:**   
 - **Intern at HTIC, IIT Madras** – Developed a VR-integrated robotic system for **surgical safety**  
