@@ -31,6 +31,13 @@ Built a 2D robotic manipulation system with a fine-tuned YOLOv11 detector and a 
 
 `Robot learning` · `YOLOv11` · `UDP` · `Real-time control`
 
+### MoodRoom
+**From real-world captures to interactive Gaussian-splatted objects in Unity.**
+
+Led a four-person Columbia team and architected an AnySplat-to-Unity pipeline for processing captures and streaming reconstructed assets through a Google OAuth-secured backend. The project supports object selection, runtime Gaussian-splat rendering, and 6DOF manipulation in a Meta Quest XR experience.
+
+`Unity` · `C#` · `AnySplat` · `Gaussian splatting` · `Meta Quest` · `OpenXR`
+
 ### [AssetOpsBench: TSFM Agent Optimization](https://github.com/sanjaiiv04/AssetOpsBench)
 **Profiling and optimizing an agent workflow built on IBM's AssetOpsBench.**
 
@@ -50,8 +57,6 @@ Supports ordered chain editing, model selection, per-step outputs, timing and to
 - **Columbia CAVE Lab · Research Assistant · Jan–Apr 2026** — Contributed multi-camera dataset collection and setup for *Squash: 3D Object Assets and their Material Properties*, and worked on ROS2 communication and tactile-feedback monitoring for object manipulation.
 - **IIT Madras Research Park, HTIC · Research Intern · Sep–Dec 2023** — Co-developed stereo-camera 3D mapping and integrated it with a modified SCARA robot for surgical registration; reported reconstruction error below **5 mm** and latency below **100 ms**.
 - **VIT · Research Intern · Mar–Dec 2024** — Designed a vision transformer for NIR-based root-rot detection, achieving **86% accuracy**, and collaborated on a hydroponic growth chamber for training-data collection.
-
-**Also built:** MoodRoom, a four-person Columbia team project connecting Gaussian splatting to Unity for spatial interaction. I led the team and architected the AnySplat-to-Unity processing and asset-streaming pipeline.
 
 ## Publications & intellectual property
 
