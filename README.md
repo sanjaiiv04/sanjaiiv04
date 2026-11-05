@@ -31,7 +31,7 @@ Built a 2D robotic manipulation system with a fine-tuned YOLOv11 detector and a 
 
 `Robot learning` · `YOLOv11` · `UDP` · `Real-time control`
 
-### MoodRoom
+### [MoodRoom](https://github.com/jklingen92/MoodRoom)
 **From real-world captures to interactive Gaussian-splatted objects in Unity.**
 
 Led a four-person Columbia team and architected an AnySplat-to-Unity pipeline for processing captures and streaming reconstructed assets through a Google OAuth-secured backend. The project supports object selection, runtime Gaussian-splat rendering, and 6DOF manipulation in a Meta Quest XR experience.
