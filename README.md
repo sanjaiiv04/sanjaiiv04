@@ -1,77 +1,78 @@
+# Sanjaii Vijayakumar
 
+### Computer vision · Robotics · Spatial AI
 
+I build systems that connect visual perception to action: reconstructing spaces, detecting changes in 3D, and helping robots understand and interact with their surroundings.
 
-# Hi there! 👋 I'm Sanjaii Vijayakumar  
+I'm pursuing an **M.S. in Computer Science, Machine Learning Track, at Columbia University**, with graduation expected in **December 2026**. My work spans 3D vision, robot learning, and the engineering behind efficient AI systems.
 
-## 🚀 About Me  
-I'm a **graduate student** at **Columbia University** with a strong background in **computer science and robotics**. Passionate about leveraging AI for real-world applications, I have worked on interdisciplinary projects in **healthcare, manufacturing, and agriculture**.  
+[Email](mailto:sv2851@columbia.edu) · [LinkedIn](https://www.linkedin.com/in/sanjaiiv/) · [Explore my repositories](https://github.com/sanjaiiv04?tab=repositories)
 
-🔬 **Research Interests:**  
-- Privacy-Preserving AI  
-- AI in Healthcare & Biomedical Applications  
-- Computer Vision 
-- Robotics & Automation
-- AI agents and workflows
-- LLM's
+## Selected work
 
-🎓 **Education:**  
-- Completed a **Bachelor’s in Computer Science** at VIT Chennai
-- Pursuing a **Master's in Computer Science** with a **Machine Learning** track at Columbia University in the City of New York
+### [What Changed in the Room?](https://github.com/sanjaiiv04/3D-Point-Cloud-Diffing)
+**Two phone recordings → a spatial report of what was added, removed, or moved.**
 
-🏆 **Experience:**   
-- **Intern at HTIC, IIT Madras** – Developed a VR-integrated robotic system for **surgical safety**  
-- **Industry Projects** – AI-powered **defect detection** in metal sheets for **manufacturing**  
+A local pipeline combining joint COLMAP reconstruction, metric depth, occlusion-aware change detection, CLIP labeling, and interactive Rerun visualization. Includes the reasoning behind the design choices and the limits of monocular reconstruction.
 
-## 🛠️ Tech Stack  
+`Python` · `COLMAP` · `Depth Anything V2` · `CLIP` · `Rerun`
 
-### 🔹 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+### [Sparse 3D Reconstruction](https://github.com/sanjaiiv04/SfM-Sparse-3D-Reconstruction)
+**From image correspondences to camera poses and sparse geometry.**
 
-### 🔹 Machine Learning & AI  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![NLTK](https://img.shields.io/badge/NLTK-9C27B0?style=for-the-badge&logo=nltk&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-FFD43B?style=for-the-badge&logo=python&logoColor=white)  
+Built a structure-from-motion pipeline using SIFT, geometric filtering, RANSAC-based pose estimation, and iterative triangulation. Reported mean reprojection error below **0.8 pixels** in project evaluation.
 
-### 🔹 Computer Vision & Image Processing  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![Pillow](https://img.shields.io/badge/Pillow-000000?style=for-the-badge&logo=python&logoColor=white)  
+`Computer vision` · `Multi-view geometry` · `Structure from motion`
 
-### 🔹 Data Science & Visualization  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-009688?style=for-the-badge&logo=python&logoColor=white)  
+### [Autonomous Robotic Manipulation](https://github.com/sanjaiiv04/VLA-ARM)
+**Natural-language instructions → object detection → pick-and-place control.**
 
-### 🔹 Web & App Development  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B0000?style=for-the-badge&logo=python&logoColor=white)  
+Built a 2D robotic manipulation system with a fine-tuned YOLOv11 detector and a UDP control pipeline sustaining **60 Hz servo updates**, with **18 ms servo delays** in project testing.
 
-### 🔹 Robotics & Automation  
-![UiPath](https://img.shields.io/badge/UiPath-EB8C00?style=for-the-badge&logo=uipath&logoColor=white)  
+`Robot learning` · `YOLOv11` · `UDP` · `Real-time control`
 
-### 🔹 Tools & Frameworks  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![StarUML](https://img.shields.io/badge/StarUML-333333?style=for-the-badge&logo=uml&logoColor=white)  
-![Roboflow](https://img.shields.io/badge/Roboflow-0096D6?style=for-the-badge&logo=roboflow&logoColor=white)  
-![Metashape](https://img.shields.io/badge/Metashape-8A2BE2?style=for-the-badge&logo=metashape&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+### [AssetOpsBench: TSFM Agent Optimization](https://github.com/sanjaiiv04/AssetOpsBench)
+**Profiling and optimizing an agent workflow built on IBM's AssetOpsBench.**
 
- 
+In a Columbia project, reduced workflow latency by **68%**, accelerated model inference **3.3×**, and reduced tool-call overhead **9×** in test runs through direct batched inference, model preloading, and caching.
 
-## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjaii0408)   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaiiv04@gmail.com)  
+`PyTorch Profiler` · `Weights & Biases` · `Inference optimization` · `AI agents`
 
-🚀 **Open to collaborations!** Let's build something innovative together.  
+### [CapRate Prompt Studio](https://github.com/sanjaiiv04/PromptChain-HumorProject)
+**An interface for configuring, executing, and inspecting multi-step AI prompt chains.**
 
+Supports ordered chain editing, model selection, per-step outputs, timing and token records, and generation history. Built with Next.js and a shared backend, with server-side provider credentials and role-based access.
 
+`Next.js` · `LLM workflows` · `Full-stack development`
+
+## Research & experience
+
+- **Columbia CAVE Lab · Research Assistant · Jan–Apr 2026** — Contributed multi-camera dataset collection and setup for *Squash: 3D Object Assets and their Material Properties*, and worked on ROS2 communication and tactile-feedback monitoring for object manipulation.
+- **IIT Madras Research Park, HTIC · Research Intern · Sep–Dec 2023** — Co-developed stereo-camera 3D mapping and integrated it with a modified SCARA robot for surgical registration; reported reconstruction error below **5 mm** and latency below **100 ms**.
+- **VIT · Research Intern · Mar–Dec 2024** — Designed a vision transformer for NIR-based root-rot detection, achieving **86% accuracy**, and collaborated on a hydroponic growth chamber for training-data collection.
+
+**Also built:** MoodRoom, a four-person Columbia team project connecting Gaussian splatting to Unity for spatial interaction. I led the team and architected the AnySplat-to-Unity processing and asset-streaming pipeline.
+
+## Publications & intellectual property
+
+- Contributing author, **“Beyond Static Leaderboards: Rank-Transfer Stability for the Evaluation of LLM Agents”** — arXiv preprint, 2026.
+- **“Systems and Methods for Early Detection of Root Rot in Hydroponically Grown Plants”** — patent application **202541009221**, filed February 4, 2025.
+
+## Tools I work with
+
+- **Languages:** Python, C++, C#, TypeScript, JavaScript, SQL
+- **Perception & 3D:** OpenCV, Open3D, COLMAP / pycolmap, Gaussian splatting, Agisoft Metashape, Rerun, Three.js
+- **Robotics & XR:** ROS2, Unity, Unity XR Interaction Toolkit, OpenXR, Meta Quest, Unity Sentis, NVIDIA Omniverse, Arduino, UDP control
+- **ML & inference:** PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, CUDA, vLLM
+- **Vision & action models:** OpenVLA, YOLO, CLIP, Depth Anything V2 / V3, Qwen3-VL, AnySplat
+- **Agents & evaluation:** LangChain, MCP / FastMCP, PyTorch Profiler, Weights & Biases
+- **Audio & transcription:** librosa, faster-whisper, Qwen3-ASR, NVIDIA Parakeet, noisereduce
+- **Web & applications:** React, Next.js, Tailwind CSS, Framer Motion, FastAPI, Streamlit
+- **Data & scientific computing:** PostgreSQL, Supabase, NumPy, SciPy, Pandas, Matplotlib
+- **Development & deployment:** Git, GitHub Actions, Docker, Linux, uv, AWS, SST, Vercel
+
+## What I want to build next
+
+I'm interested in spatially aware AI and robots that can move from interpreting a scene to acting within it. I want to deepen my work in robot learning, 3D scene understanding, and efficient perception-to-action systems, with an emphasis on reproducible evaluation and real-world constraints.
+
+If you're working on related research or engineering problems, [let's connect](mailto:sv2851@columbia.edu).
